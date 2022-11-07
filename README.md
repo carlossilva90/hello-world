@@ -3,7 +3,7 @@ Let me introduce myself.
 
 I'm a tech lover and I develop my career in the data field, specializing everyday into the processing, analysis and visualization of the information using the most important tools in the market. Bellow are some of my skills:
 
->> DATA ENGINEERING <<
+> DATA ENGINEERING
 
 - Cloud: Amazon Web Services (AWS), Microsoft Azure
 - Creation, modelling and maintence of Data Lakes and Data Warehouses
@@ -13,7 +13,7 @@ I'm a tech lover and I develop my career in the data field, specializing everyda
 - Distributed Computing: Apache PySpark, Databricks
 - Other softwares: Alteryx, Talend, Knime
 
->> DATA SCIENCE AND ANALYTCS <<
+> DATA SCIENCE AND ANALYTCS
 
 - Python for statistical analysis, data modelling, dashboard creation and process automation (Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn and many others libraries used in the market)
 - Predictive analysis: Linear regression, clustering, decision tree
